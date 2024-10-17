@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/DrawersDelight.iml" filepath="$PROJECT_DIR$/.idea/DrawersDelight.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DrawersDelight.main.iml" filepath="$PROJECT_DIR$/.idea/modules/DrawersDelight.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DrawersDelight.test.iml" filepath="$PROJECT_DIR$/.idea/modules/DrawersDelight.test.iml" />
     </modules>
   </component>
 </project>
